@@ -12,6 +12,9 @@ export default defineConfig({
   ],
   theme: {
     extend: {
+      colors: {
+        youx: '#B9114B',
+      },
       typography: {
         DEFAULT: {
           css: {
